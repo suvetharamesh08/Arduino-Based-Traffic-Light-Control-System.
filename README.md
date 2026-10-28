@@ -68,7 +68,9 @@ void loop() {
   delay(2000);
   digitalWrite(green, LOW);
 }
+## 📸 Hardware Implementation
 
+![Arduino Traffic Light Control System](traffic-light-circuit.jpg)
 🧠 Concepts Learned
 
 - Arduino UNO and microcontroller basics
