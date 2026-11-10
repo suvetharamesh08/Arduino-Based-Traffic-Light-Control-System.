@@ -65,18 +65,6 @@ The output demonstrates the sequential operation of the three traffic signal LED
 
 ![Arduino Traffic Light Control System](<TRAFFIC LIGHT SEQUENCE.jpeg>)
 
-Features
-. Three-LED Traffic Signal Control: Controls Red, Yellow, and Green LEDs using Arduino digital output pins.
-. Sequential LED Operation: Activates the traffic signal LEDs one after another in a predefined sequence.
-. Automatic Signal Switching: Automatically changes between traffic signal states without manual intervention.
-. Timed Signal Control: Uses programmed delays to control the duration of each LED state.
-. Red Signal Indication: Keeps the Red LED ON for 2 seconds to represent STOP.
-. Yellow Signal Indication: Keeps the Yellow LED ON for 1 second to represent CAUTION.
-. Green Signal Indication: Keeps the Green LED ON for 2 seconds to represent GO.
-. Continuous Operation: Repeats the traffic light sequence continuously using the Arduino loop() function.
-. Simple Hardware Implementation: Uses an Arduino Uno, three LEDs, resistors, and a breadboard for easy circuit assembly.
-. Microcontroller-Based Automation: Demonstrates basic digital output control and embedded systems programming.
-
 
 ## 🧠 Concepts Learned
 
