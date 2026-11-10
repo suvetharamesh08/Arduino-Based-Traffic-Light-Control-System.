@@ -56,7 +56,9 @@ The traffic light system operates in a continuous sequence using three LEDs.
 
 The `delay()` function controls the duration of each LED, while `digitalWrite()` switches the LEDs ON and OFF.
 
+## 💻 Arduino Source Code
 
+[View Traffic Light Arduino Code](./traffic_light.ino)
 
 ## 📸 Project Output
 
@@ -83,7 +85,5 @@ The output demonstrates the sequential operation of the three traffic signal LED
 - Arduino-based automation experiments.
 - Educational electronics demonstrations.
 - Introduction to intelligent traffic management systems.
-
-roject useful, consider giving this repository a star!**
 
 *Learning Electronics, One Project at a Time.*
