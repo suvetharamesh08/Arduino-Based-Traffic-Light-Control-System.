@@ -20,16 +20,15 @@ The system operates automatically in a predefined sequence, switching between th
 
 ##  Hardware Requirements
 
-| S.No | Component 
-|---|---|---
-| 1 | Arduino UNO
-| 2 | Red LED
-| 3 | Yellow LED 
-| 4 | Green LED 
-| 5 | Resistors (220Ω) 
-| 6 | Breadboard 
-| 7 | Jumper Wires 
-| 8 | USB Cable 
+
+ Arduino UNO
+ Red LED
+ Yellow LED 
+ Green LED 
+ Resistors (220Ω) 
+ Breadboard 
+ Jumper Wires 
+ USB Cable 
 
 ##  Software Requirements
 
