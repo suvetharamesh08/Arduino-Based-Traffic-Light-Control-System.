@@ -43,13 +43,6 @@ The system operates automatically in a predefined sequence, switching between th
 - Arduino C/C++ Programming
 - USB Driver for Arduino UNO
 
-##  Pin Configuration
-
-| LED Color | Arduino Digital Pin |
-|---|---|
-| 🔴 Red LED | Pin 5 |
-| 🟡 Yellow LED | Pin 6 |
-| 🟢 Green LED | Pin 7 |
 
 ##  Working Principle
 
@@ -79,16 +72,7 @@ The output demonstrates the sequential operation of the three traffic signal LED
 - LED Control Using Digital Pins
 - `pinMode()` Function
 - `digitalWrite()` Function
-- `delay()` Function
-- Sequential Execution
-- Basic Embedded Systems Programming
 
-##  Applications
 
-- Basic traffic signal simulation.
-- Embedded systems learning.
-- Arduino-based automation experiments.
-- Educational electronics demonstrations.
-- Introduction to intelligent traffic management systems.
 
 
