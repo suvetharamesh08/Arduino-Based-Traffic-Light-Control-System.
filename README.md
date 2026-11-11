@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Arduino-Based Traffic Light Control System** is an electronics project designed to simulate the basic operation of a real-world traffic signal. It uses an Arduino UNO microcontroller to control three LEDs representing the Red, Yellow, and Green traffic lights.
 
 The system operates automatically in a predefined sequence, switching between the three lights with specific time intervals. This project demonstrates fundamental concepts of Arduino programming, digital output control, and time-based automation.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - To understand the working principle of traffic light systems.
 - To learn LED interfacing with Arduino UNO.
@@ -18,7 +18,7 @@ The system operates automatically in a predefined sequence, switching between th
 - To understand digital output operations using `digitalWrite()`.
 - To implement time delays using the `delay()` function.
 
-## 🛠️ Hardware Requirements
+##  Hardware Requirements
 
 | S.No | Component | Quantity |
 |---|---|---|
@@ -31,13 +31,13 @@ The system operates automatically in a predefined sequence, switching between th
 | 7 | Jumper Wires | As Required |
 | 8 | USB Cable | 1 |
 
-## 💻 Software Requirements
+##  Software Requirements
 
 - Arduino IDE
 - Arduino C/C++ Programming
 - USB Driver for Arduino UNO
 
-## 🔌 Pin Configuration
+##  Pin Configuration
 
 | LED Color | Arduino Digital Pin |
 |---|---|
@@ -45,7 +45,7 @@ The system operates automatically in a predefined sequence, switching between th
 | 🟡 Yellow LED | Pin 6 |
 | 🟢 Green LED | Pin 7 |
 
-## ⚙️ Working Principle
+##  Working Principle
 
 The traffic light system operates in a continuous sequence using three LEDs.
 
@@ -56,19 +56,18 @@ The traffic light system operates in a continuous sequence using three LEDs.
 
 The `delay()` function controls the duration of each LED, while `digitalWrite()` switches the LEDs ON and OFF.
 
-## 💻 Arduino Source Code
+##  Arduino Source Code
 
 [View Traffic Light Arduino Code](./traffic_light.ino)
 
-## 📸 Project Output
+##  Project Output
 
 The output demonstrates the sequential operation of the three traffic signal LEDs.
-## 📸 Project Output
 
 ![Arduino Traffic Light Control System](<TRAFFIC LIGHT SEQUENCE.jpeg>)
 
 
-## 🧠 Concepts Learned
+##  Concepts Learned
 
 - Arduino UNO Interfacing
 - LED Control Using Digital Pins
@@ -78,7 +77,7 @@ The output demonstrates the sequential operation of the three traffic signal LED
 - Sequential Execution
 - Basic Embedded Systems Programming
 
-## 🚀 Applications
+##  Applications
 
 - Basic traffic signal simulation.
 - Embedded systems learning.
@@ -86,4 +85,4 @@ The output demonstrates the sequential operation of the three traffic signal LED
 - Educational electronics demonstrations.
 - Introduction to intelligent traffic management systems.
 
-*Learning Electronics, One Project at a Time.*
+
