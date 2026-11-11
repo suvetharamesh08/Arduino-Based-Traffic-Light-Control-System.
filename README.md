@@ -22,12 +22,19 @@ The system operates automatically in a predefined sequence, switching between th
 
 
  Arduino UNO
+ 
  Red LED
+ 
  Yellow LED 
+ 
  Green LED 
+ 
  Resistors (220Ω) 
+ 
  Breadboard 
+ 
  Jumper Wires 
+ 
  USB Cable 
 
 ##  Software Requirements
